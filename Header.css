@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&family=Lato:wght@100;300;400;700;900&family=Libre+Franklin:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&family=Jost:wght@100;200;300;400;500;600;700;800;900&family=Lato:wght@100;300;400;700;900&family=Libre+Franklin:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Russo+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Jost', sans-serif;
+}
+
+.heading01{
+    color:#007AFF;
+    text-transform: uppercase;
+    font-size: 35px;
+    margin-top: 10px;
+    margin-right: 50px;
+}
+
+.para01{
+    color:#323f4b;
+    font-style: italic;
+    margin-top: -20px;
+    font-size: 22px;
+}
+.manohar{
+    box-shadow: 1px 1px 1px #e1e6e5;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.manu01{
+    color:#323f4b;
+    font-size: 20px;
+    margin-right: 50px;
+}
+.manu02{
+    background-color: #F2F6FF;
+}
+
+.manu03{
+    margin-right: 50px;
+    color: #323f4b;
+    font-size: 18px;
+    font-weight: 600;
+}
+.button01{
+    width:180px;
+    height:50px;
+    border-radius: 25px;
+    color: #fff;
+    font-size: 17px;
+}

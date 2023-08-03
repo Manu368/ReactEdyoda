@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&family=Lato:wght@100;300;400;700;900&family=Libre+Franklin:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&family=Jost:wght@100;200;300;400;500;600;700;800;900&family=Lato:wght@100;300;400;700;900&family=Libre+Franklin:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Russo+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Jost', sans-serif;
+}
+.bg-container01{
+    background-color: #172746;
+    background-size: cover;
+
+}
+.heading03{
+    color:#fff;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 24px;
+}
+.p03{
+    color:#fff;
+}
+.icon02{
+    color:#fff;
+    font-size: 25px;
+    padding-right: 10px;
+}
+.email01{
+    color:#fff;
+}
+.i01, .i02, .i03, .i04, .i05{
+    color:#fff;
+    font-size: 20px;
+    padding-right: 20px;
+}
+.heading04{
+    color:#8B9394;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 24px;
+}
+.p04{
+    color:#fff;
+    margin-top: 20px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.p05{
+    color:#fff;
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 18px;
+}
+.hor01{
+    background-color: #fff;
+    color: #fff;
+    margin-top: 10px;
+}
+.ic01{
+    color:#fff;
+    font-size: 20px;
+    padding-left: 10px;
+}

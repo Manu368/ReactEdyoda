@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&family=Lato:wght@100;300;400;700;900&family=Libre+Franklin:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo:wght@100;200;300;400;500;600;700;800;900&family=Jost:wght@100;200;300;400;500;600;700;800;900&family=Lato:wght@100;300;400;700;900&family=Libre+Franklin:wght@100;200;300;400;500;600;700;800;900&family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Russo+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Jost', sans-serif;
+}
+
+body{
+    background-color: #F2F6FF;
+    background-size: cover;
+    height:100vh;
+}
+.heading02{
+    color:#000;
+    font-size: 37px;
+
+}
+.image01{
+    width:92.5%;
+    border-radius: 5px;
+
+}
+.image02{
+    width:100%;
+    height:50%;
+}
+
+.image03{
+    width:100%;
+}
+
+.icon01{
+    color:#3580C1;
+    font-size: 18px;
+}
+.p02{
+    color:#000;
+    font-size: 18px;
+}
+.button02{
+    background-color: #0084AF;
+    color: #fff;
+    border:0px;
+    height:30px;
+    border-radius: 15px;
+    width:55px;
+    font-size: 16px;
+    margin-right: 20px;
+
+}
+.button03{
+    background-color: transparent;
+    color: #0084AF;
+    border:1px solid #0084AF;
+    height:30px;
+    border-radius: 15px;
+    font-size: 15px;
+    margin-right: 14px;
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 10px;
+}
+
+.card-text01{
+    color:#3580C1;
+    font-size: 18px;
+}
+.span01{
+    color:#323f4b;
+}
+.text02{
+    color:#323f4b;
+    font-size: 18px;
+}
